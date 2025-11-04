@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/mc_bingo/static/css/main.31bb27e8.css",
-    "main.js": "/mc_bingo/static/js/main.67633dba.js",
+    "main.js": "/mc_bingo/static/js/main.36152bc1.js",
     "static/js/453.f4036f91.chunk.js": "/mc_bingo/static/js/453.f4036f91.chunk.js",
     "static/media/minecraft.jpg": "/mc_bingo/static/media/minecraft.d6cf185a6b929e8ef8db.jpg",
     "index.html": "/mc_bingo/index.html",
     "main.31bb27e8.css.map": "/mc_bingo/static/css/main.31bb27e8.css.map",
-    "main.67633dba.js.map": "/mc_bingo/static/js/main.67633dba.js.map",
+    "main.36152bc1.js.map": "/mc_bingo/static/js/main.36152bc1.js.map",
     "453.f4036f91.chunk.js.map": "/mc_bingo/static/js/453.f4036f91.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31bb27e8.css",
-    "static/js/main.67633dba.js"
+    "static/js/main.36152bc1.js"
   ]
 }
