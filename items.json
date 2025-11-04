@@ -1,0 +1,872 @@
+[
+  {
+    "name": "Acacia_Hanging_Sign",
+    "image": "/images/Acacia_Hanging_Sign.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Activator_Rail",
+    "image": "/images/Activator_Rail.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Allium",
+    "image": "/images/Allium.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Anvil",
+    "image": "/images/Anvil.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Armadillo_Scute",
+    "image": "/images/Armadillo_Scute.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Armor_Stand",
+    "image": "/images/Armor_Stand.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Beetroot_Soup",
+    "image": "/images/Beetroot_Soup.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Bell",
+    "image": "/images/Bell.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Black_Bed",
+    "image": "/images/Black_Bed.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Black_Bundle",
+    "image": "/images/Black_Bundle.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Black_Candle",
+    "image": "/images/Black_Candle.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Black_Glazed_Terracotta",
+    "image": "/images/Black_Glazed_Terracotta.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Blast_Furnace",
+    "image": "/images/Blast_Furnace.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Block_of_Diamond",
+    "image": "/images/Block_of_Diamond.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Block_of_Emerald",
+    "image": "/images/Block_of_Emerald.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Bone_Block",
+    "image": "/images/Bone_Block.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Book_and_Quill",
+    "image": "/images/Book_and_Quill.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Brewing_Stand",
+    "image": "/images/Brewing_Stand.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Brush",
+    "image": "/images/Brush.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Carrot_on_a_Stick",
+    "image": "/images/Carrot_on_a_Stick.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Cartography",
+    "image": "/images/Cartography.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Chiseled_Nether_Bricks",
+    "image": "/images/Chiseled_Nether_Bricks.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Chiseled_Tuff",
+    "image": "/images/Chiseled_Tuff.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Clock",
+    "image": "/images/Clock.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Crafter",
+    "image": "/images/Crafter.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Crossbow",
+    "image": "/images/Crossbow.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Crying_Obsidian",
+    "image": "/images/Crying_Obsidian.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Dark_Oak_Hanging_Sign",
+    "image": "/images/Dark_Oak_Hanging_Sign.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Dead_Bush",
+    "image": "/images/Dead_Bush.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Dispenser",
+    "image": "/images/Dispenser.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Dripstone_Block",
+    "image": "/images/Dripstone_Block.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Enchanting_Table",
+    "image": "/images/Enchanting_Table.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Fern",
+    "image": "/images/Fern.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Fire_Charge",
+    "image": "/images/Fire_Charge.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Fletching_Table",
+    "image": "/images/Fletching_Table.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Flowering_Azalea_Leaves",
+    "image": "/images/Flowering_Azalea_Leaves.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Flower_Charge_Banner_Pattern",
+    "image": "/images/Flower_Charge_Banner_Pattern.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Glow_Ink_Sac",
+    "image": "/images/Glow_Ink_Sac.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Glow_Lichen",
+    "image": "/images/Glow_Lichen.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Golden_Carrot",
+    "image": "/images/Golden_Carrot.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Golden_Horse_Armor",
+    "image": "/images/Golden_Horse_Armor.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Grindstone",
+    "image": "/images/Grindstone.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Jack_o'Lantern",
+    "image": "/images/Jack_o'Lantern.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Jukebox",
+    "image": "/images/Jukebox.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Lectern",
+    "image": "/images/Lectern.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Light_Blue_Concrete",
+    "image": "/images/Light_Blue_Concrete.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Lily_of_the_Valley",
+    "image": "/images/Lily_of_the_Valley.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Lily_Pad",
+    "image": "/images/Lily_Pad.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Lodestone",
+    "image": "/images/Lodestone.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Loom",
+    "image": "/images/Loom.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Mangrove_Hanging_Sign",
+    "image": "/images/Mangrove_Hanging_Sign.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Minecart_with_TNT",
+    "image": "/images/Minecart_with_TNT.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Mossy_Stone_Bricks",
+    "image": "/images/Mossy_Stone_Bricks.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Moss_Block",
+    "image": "/images/Moss_Block.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Mud_Bricks",
+    "image": "/images/Mud_Bricks.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Obsidian",
+    "image": "/images/Obsidian.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Pink_Bed",
+    "image": "/images/Pink_Bed.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Pink_Glazed_Terracotta",
+    "image": "/images/Pink_Glazed_Terracotta.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Piston",
+    "image": "/images/Piston.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Powered_Rail",
+    "image": "/images/Powered_Rail.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Pufferfish",
+    "image": "/images/Pufferfish.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Purple_Candle",
+    "image": "/images/Purple_Candle.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Purple_Concrete",
+    "image": "/images/Purple_Concrete.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Redstone_Repeater",
+    "image": "/images/Redstone_Repeater.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Red_Candle",
+    "image": "/images/Red_Candle.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Smithing_Table",
+    "image": "/images/Smithing_Table.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Snow_Block",
+    "image": "/images/Snow_Block.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Sunflower",
+    "image": "/images/Sunflower.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Suspicious_Stew",
+    "image": "/images/Suspicious_Stew.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Sweet_Berries",
+    "image": "/images/Sweet_Berries.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Target",
+    "image": "/images/Target.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Vines",
+    "image": "/images/Vines.png",
+    "difficulty": 1
+  },
+  {
+    "name": "White_Candle",
+    "image": "/images/White_Candle.png",
+    "difficulty": 1
+  },
+  {
+    "name": "White_Glazed_Terracotta",
+    "image": "/images/White_Glazed_Terracotta.png",
+    "difficulty": 1
+  },
+  {
+    "name": "Bamboo",
+    "image": "/images/Bamboo.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Bamboo_Raft_with_Chest",
+    "image": "/images/Bamboo_Raft_with_Chest.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Beehive",
+    "image": "/images/Beehive.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Blade_Pottery_Sherd",
+    "image": "/images/Blade_Pottery_Sherd.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Block_of_Amethyst",
+    "image": "/images/Block_of_Amethyst.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Blue_Egg",
+    "image": "/images/Blue_Egg.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Blue_Orchid",
+    "image": "/images/Blue_Orchid.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Brown_Bundle",
+    "image": "/images/Brown_Bundle.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Brown_Egg",
+    "image": "/images/Brown_Egg.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Brown_Glazed_Terracotta",
+    "image": "/images/Brown_Glazed_Terracotta.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Bucket_of_Axolotl",
+    "image": "/images/Bucket_of_Axolotl.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Bucket_of_Pufferfish",
+    "image": "/images/Bucket_of_Pufferfish.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Bucket_of_Tropical_Fish",
+    "image": "/images/Bucket_of_Tropical_Fish.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Cactus_Flower",
+    "image": "/images/Cactus_Flower.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Cake",
+    "image": "/images/Cake.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Calcite",
+    "image": "/images/Calcite.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Cherry_Boat_with_Chest",
+    "image": "/images/Cherry_Boat_with_Chest.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Cherry_Leaves",
+    "image": "/images/Cherry_Leaves.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Cherry_Sapling",
+    "image": "/images/Cherry_Sapling.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Chiseled_Red_Sandstone",
+    "image": "/images/Chiseled_Red_Sandstone.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Coast_Armor_Trim",
+    "image": "/images/Coast_Armor_Trim.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Cookie",
+    "image": "/images/Cookie.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Cyan_Bundle",
+    "image": "/images/Cyan_Bundle.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Cyan_Concrete",
+    "image": "/images/Cyan_Concrete.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Cyan_Glazed_Terracotta",
+    "image": "/images/Cyan_Glazed_Terracotta.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Dark_Prismarine",
+    "image": "/images/Dark_Prismarine.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Diamond_Horse_Armor",
+    "image": "/images/Diamond_Horse_Armor.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Egg",
+    "image": "/images/Egg.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Enchanted_Book",
+    "image": "/images/Enchanted_Book.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Enchanted_Bow",
+    "image": "/images/Enchanted_Bow.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Enchanted_Crossbow",
+    "image": "/images/Enchanted_Crossbow.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Enchanted_Diamond_Sword",
+    "image": "/images/Enchanted_Diamond_Sword.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Enchanted_Golden_Axe",
+    "image": "/images/Enchanted_Golden_Axe.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Enchanted_Golden_Boots",
+    "image": "/images/Enchanted_Golden_Boots.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Enchanted_Golden_Chestplate",
+    "image": "/images/Enchanted_Golden_Chestplate.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Enchanted_Golden_Helmet",
+    "image": "/images/Enchanted_Golden_Helmet.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Enchanted_Golden_Hoe",
+    "image": "/images/Enchanted_Golden_Hoe.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Enchanted_Golden_Leggings",
+    "image": "/images/Enchanted_Golden_Leggings.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Enchanted_Golden_Pickaxe",
+    "image": "/images/Enchanted_Golden_Pickaxe.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Enchanted_Golden_Shovel",
+    "image": "/images/Enchanted_Golden_Shovel.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Ender_Pearl",
+    "image": "/images/Ender_Pearl.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Fermented_Spider_Eye",
+    "image": "/images/Fermented_Spider_Eye.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Flowering_Azalea",
+    "image": "/images/Flowering_Azalea.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Glistering_Melon_Slice",
+    "image": "/images/Glistering_Melon_Slice.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Glow_Berries",
+    "image": "/images/Glow_Berries.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Grass_Block",
+    "image": "/images/Grass_Block.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Green_Bundle",
+    "image": "/images/Green_Bundle.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Green_Concrete",
+    "image": "/images/Green_Concrete.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Green_Glazed_Terracotta",
+    "image": "/images/Green_Glazed_Terracotta.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Hanging_Roots",
+    "image": "/images/Hanging_Roots.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Heart_of_the_Sea",
+    "image": "/images/Heart_of_the_Sea.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Honeycomb_Block",
+    "image": "/images/Honeycomb_Block.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Honey_Block",
+    "image": "/images/Honey_Block.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Honey_Bottle",
+    "image": "/images/Honey_Bottle.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Iron_Horse_Armor",
+    "image": "/images/Iron_Horse_Armor.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Jungle_Sapling",
+    "image": "/images/Jungle_Sapling.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Lime_Bundle",
+    "image": "/images/Lime_Bundle.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Lime_Concrete",
+    "image": "/images/Lime_Concrete.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Lime_Glazed_Terracotta",
+    "image": "/images/Lime_Glazed_Terracotta.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Mangrove_Boat_with_Chest",
+    "image": "/images/Mangrove_Boat_with_Chest.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Mangrove_Leaves",
+    "image": "/images/Mangrove_Leaves.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Mangrove_Propagule",
+    "image": "/images/Mangrove_Propagule.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Nautilus_Shell",
+    "image": "/images/Nautilus_Shell.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Pink_Petals",
+    "image": "/images/Pink_Petals.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Poisonous_Potato",
+    "image": "/images/Poisonous_Potato.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Potion_of_Water_Breathing",
+    "image": "/images/Potion_of_Water_Breathing.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Powder_Snow_Bucket",
+    "image": "/images/Powder_Snow_Bucket.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Prismarine_Bricks",
+    "image": "/images/Prismarine_Bricks.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Prismarine_Crystals",
+    "image": "/images/Prismarine_Crystals.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Prismarine_JE2_BE2",
+    "image": "/images/Prismarine_JE2_BE2.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Pumpkin_Pie",
+    "image": "/images/Pumpkin_Pie.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Rabbit's_Foot",
+    "image": "/images/Rabbit's_Foot.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Rabbit_Hide",
+    "image": "/images/Rabbit_Hide.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Rabbit_Stew",
+    "image": "/images/Rabbit_Stew.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Red_Sand",
+    "image": "/images/Red_Sand.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Sea_Pickle",
+    "image": "/images/Sea_Pickle.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Short_Dry_Grass",
+    "image": "/images/Short_Dry_Grass.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Slimeball",
+    "image": "/images/Slimeball.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Small_Dripleaf",
+    "image": "/images/Small_Dripleaf.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Smooth_Basalt",
+    "image": "/images/Smooth_Basalt.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Spore_Blossom",
+    "image": "/images/Spore_Blossom.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Spyglass",
+    "image": "/images/Spyglass.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Sticky_Piston",
+    "image": "/images/Sticky_Piston.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Tinted_Glass",
+    "image": "/images/Tinted_Glass.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Wolf_Armor",
+    "image": "/images/Wolf_Armor.png",
+    "difficulty": 2
+  },
+  {
+    "name": "Bee_Nest",
+    "image": "/images/Bee_Nest.png",
+    "difficulty": 3
+  },
+  {
+    "name": "Bottle_o'_Enchanting",
+    "image": "/images/Bottle_o'_Enchanting.png",
+    "difficulty": 3
+  },
+  {
+    "name": "Enchanted_Golden_Apple",
+    "image": "/images/Enchanted_Golden_Apple.png",
+    "difficulty": 3
+  },
+  {
+    "name": "Goat_Horn",
+    "image": "/images/Goat_Horn.png",
+    "difficulty": 3
+  },
+  {
+    "name": "Music_Disc_stal",
+    "image": "/images/Music_Disc_stal.png",
+    "difficulty": 3
+  },
+  {
+    "name": "Name_Tag",
+    "image": "/images/Name_Tag.png",
+    "difficulty": 3
+  },
+  {
+    "name": "Ominous_Banner",
+    "image": "/images/Ominous_Banner.png",
+    "difficulty": 3
+  },
+  {
+    "name": "Open_Eyeblossom",
+    "image": "/images/Open_Eyeblossom.png",
+    "difficulty": 3
+  },
+  {
+    "name": "Packed_Ice",
+    "image": "/images/Packed_Ice.png",
+    "difficulty": 3
+  },
+  {
+    "name": "Red_Mushroom_Block",
+    "image": "/images/Red_Mushroom_Block.png",
+    "difficulty": 3
+  },
+  {
+    "name": "Sculk",
+    "image": "/images/Sculk.png",
+    "difficulty": 3
+  },
+  {
+    "name": "Sniffer_Egg",
+    "image": "/images/Sniffer_Egg.png",
+    "difficulty": 3
+  },
+  {
+    "name": "Splash_Potion_of_Weakness",
+    "image": "/images/Splash_Potion_of_Weakness.png",
+    "difficulty": 3
+  },
+  {
+    "name": "Sponge",
+    "image": "/images/Sponge.png",
+    "difficulty": 3
+  },
+  {
+    "name": "Totem_of_Undying",
+    "image": "/images/Totem_of_Undying.png",
+    "difficulty": 3
+  }
+]
