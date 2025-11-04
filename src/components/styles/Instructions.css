@@ -1,0 +1,8 @@
+.rules {
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+}

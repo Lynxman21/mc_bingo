@@ -1,0 +1,53 @@
+.change-map-area {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 90vh;
+    position: relative;
+}
+
+.map button img {
+    max-width: 100%;
+    max-height: 100%;
+    aspect-ratio: 1/1;
+}
+
+.button-area {
+    width: 100%;
+}
+
+.accept-button {
+    margin-top: 3%;
+}
+
+.stop {
+    display: flex;
+    justify-content: center;
+}
+
+.b-ground {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(0,0,0,0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.choice-window {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    min-width: 300px;
+    max-width: 80vw;
+    max-height: 80vw;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}

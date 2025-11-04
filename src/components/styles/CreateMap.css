@@ -1,0 +1,12 @@
+.create-map {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+.create-map button {
+    margin-top: 45px;
+    font-size: 35px;
+}

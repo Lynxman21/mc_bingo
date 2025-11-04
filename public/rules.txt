@@ -1,0 +1,4 @@
+Witam na stronie ułatwiającej grę w Bingo w Minecraft. Strona stanowi tylko rolę "notatnika".
+Tzn. tylko generuje tabele i gracze mogą zaznaczać, który blok został znaleziony (lokalnie)
+Można wybrać ilość bloków średnich, ale trudnych jest tyle ile wynosi bok planszy.
+Zaleca się by grać na tym samym serwerze lub z tym samym SEEDem. Chyba to tyle i życzę dobrej zabawy!
