@@ -29,7 +29,7 @@ const Game: React.FC = () => {
             gap: "3%"}}>
             {map.map((item, index) => (
                 <div className="button" key={index}>
-                    <BingoButton img={item.image} title={item.name}></BingoButton>
+                    <BingoButton img={process.env.PUBLIC_URL + item.image} title={item.name}></BingoButton>
                 </div>
             ))}
         </div>

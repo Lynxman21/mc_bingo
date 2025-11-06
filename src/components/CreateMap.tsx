@@ -17,7 +17,7 @@ const CreateMap: React.FC = () => {
     const [items, setItems] = useState<Item[]>([]);
 
     useEffect(() => {
-        fetch('/items.json')
+        fetch(process.env.PUBLIC_URL+'/items.json')
         .then(res => res.json())
         .then(data => setItems(data))
         .catch(error => console.error('Error:', error));

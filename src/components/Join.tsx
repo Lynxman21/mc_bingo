@@ -10,7 +10,7 @@ const Join: React.FC = () => {
     const [items, setItems] = useState<any[]>([]);
 
     useEffect(() => {
-        fetch('/items.json')
+        fetch(process.env.PUBLIC_URL + '/items.json')
         .then(response => response.json())
         .then(data => setItems(data))
         .catch(err => console.error("Error:",err));

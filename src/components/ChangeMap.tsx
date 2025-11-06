@@ -54,7 +54,7 @@ const ChangeMap: React.FC = () => {
                     }>
             {map.map((mapItem, index) => (
                     <div className="button-area" key={index}>
-                        <McButton width={"100%"} height={"100%"} fun={() => setSelected(mapItem)} image={mapItem.image} title={mapItem.name}></McButton>
+                        <McButton width={"100%"} height={"100%"} fun={() => setSelected(mapItem)} image={process.env.PUBLIC_URL + mapItem.image} title={mapItem.name}></McButton>
                     </div>
                 )
             )}

@@ -12,7 +12,7 @@ const BlockList: React.FC = () => {
     const [blocks, setBlocks] = useState<Block[]>([]);
 
     const getBlocks = () => {
-        fetch('/items.json')
+        fetch(process.env.PUBLIC_URL + '/items.json')
         .then(res => res.json())
         .then(data => setBlocks(data))
         .catch(error => console.error('Error:', error));
@@ -26,7 +26,7 @@ const BlockList: React.FC = () => {
             <div key={index} className="block-item">
                 <h3>{item.name}</h3>
                 <p>Diffuculty: {item.difficulty}</p>
-                <img src={item.image} alt={item.name}/>
+                <img src={process.env.PUBLIC_URL + item.image} alt={item.name}/>
             </div>
         ))}
     </div>

@@ -6,7 +6,7 @@ const Instruction: React.FC = () => {
     const [text, setText] = useState('');
 
     useEffect(() => {
-        fetch('../rules.txt')
+        fetch(process.env.PUBLIC_URL + '/rules.txt')
         .then((res) => res.text())
         .then((data) => setText(data))
         .catch((err) => console.error("Error fetching rules:", err));

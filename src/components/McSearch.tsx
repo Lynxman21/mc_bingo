@@ -18,7 +18,7 @@ const McSearch: React.FC<SearchProps> = ( {fun, map}: SearchProps) => {
     const [ search, setSearch ] = useState("");
 
     useEffect(() => {
-        fetch('/items.json')
+        fetch(process.env.PUBLIC_URL + '/items.json')
         .then(res => res.json())
         .then(data => setItems(data))
         .catch(error => console.error('Error:', error));
